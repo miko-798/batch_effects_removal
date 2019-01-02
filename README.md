@@ -4,8 +4,8 @@
 Compare the effectiveness of different approaches to remove batch effects in single-cell RNA-seq datasets.
 
 **Quantification:**
-1. Normalized Mutual Information: How well each method separates the cell types and mix the batch
-2. Spearman Correlation: To what extent each method distort the original data
+1. Normalized Mutual Information: How well each method separates the cell types and mixes the batch
+2. Spearman Correlation: To what extent each method distorts the original data
 
 **Methods used:**
  - in R: Mutual Nearest Neighbors (MNN), Seurat, Limma, ComBat, Quantile Normalization
