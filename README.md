@@ -1,5 +1,7 @@
 # Removing batch effects in single-cell RNA-seq data.
 
+Project during the summer of 2018, Dr. Zemin Zhang's lab, Peking University
+
 **Goal:**
 Compare the effectiveness of different approaches to remove batch effects in single-cell RNA-seq datasets.
 
